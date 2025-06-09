@@ -1,7 +1,7 @@
 # Madhav-Ecommerce-Sales-Dashboard
 Madhav Ecommerce Sales Dashboard is a responsive and interactive analytics tool built with Streamlit, designed to help ecommerce businesses track, analyze, and optimize performance using real order and transaction data.
 
-  Key Features
+🔍 Key Features
 This dashboard provides clear visibility into essential performance metrics, including:
 
 Total Sales
@@ -23,7 +23,8 @@ Customer Segments
 Payment Modes
 
 Monthly Sales and Profit Trends
-  How It Works
+
+🧾 How It Works
 The dashboard processes and merges two data sources:
 
 Orders.csv: Contains customer and order-level data
@@ -32,11 +33,11 @@ Details.csv: Contains transaction details like amount, profit, category, etc.
 
 These are combined into a unified view and visualized using:
 
-  Bar Charts
+📊 Bar Charts
 
-  Donut & Pie Charts
+🍩 Donut & Pie Charts
 
-  Line Graphs (for time-based trends)
+📈 Line Graphs (for time-based trends)
 
 👥 Ideal For
 E-commerce founders & operations teams
