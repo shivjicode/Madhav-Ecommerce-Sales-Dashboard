@@ -3,25 +3,25 @@ Madhav Ecommerce Sales Dashboard is a responsive and interactive dashboard built
 
 This dashboard provides clear visibility into key performance indicators such as:
 
-## Total Sales
+  Total Sales
 
-## Profit
+  Profit
 
-## Quantity Sold
+  Quantity Sold
 
-## Average Order Value (AOV)
+  Average Order Value (AOV)
 
 It also breaks down performance by:
 
-## State and City
+  State and City
 
-## Product Category and Sub-Category
+  Product Category and Sub-Category
 
-## Customer Segments
+  Customer Segments
 
-## Payment Modes
+  Payment Modes
 
-## Monthly Sales and Profit Trends
+  Monthly Sales and Profit Trends
 
 The project merges customer and order-level data from two CSV files (Orders.csv and Details.csv) to create a unified and insightful analytics view. All metrics are presented through clean, interactive visualizations such as bar charts, pie/donut charts, and time-series graphs.
 
@@ -34,11 +34,11 @@ Business analysts looking to explore trends
 Anyone needing a fast, data-backed summary of sales performance
 
 💡 Key Benefits
-## Enables real-time business tracking
+   Enables real-time business tracking
 
-## Highlights best-performing regions, products, and customers
+   Highlights best-performing regions, products, and customers
 
-## Simplifies reporting and supports strategic decisions
+   Simplifies reporting and supports strategic decisions
 
-## Easily extendable for more data sources or metrics
+   Easily extendable for more data sources or metrics
 
