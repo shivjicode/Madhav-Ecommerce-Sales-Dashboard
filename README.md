@@ -21,7 +21,7 @@ It also breaks down performance by:
 
 ## Payment Modes
 
-## onthly Sales and Profit Trends
+## Monthly Sales and Profit Trends
 
 The project merges customer and order-level data from two CSV files (Orders.csv and Details.csv) to create a unified and insightful analytics view. All metrics are presented through clean, interactive visualizations such as bar charts, pie/donut charts, and time-series graphs.
 
