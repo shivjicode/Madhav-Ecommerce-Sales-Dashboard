@@ -1,44 +1,55 @@
 # Madhav-Ecommerce-Sales-Dashboard
-Madhav Ecommerce Sales Dashboard is a responsive and interactive dashboard built with Streamlit, designed to help ecommerce businesses track, analyze, and optimize their performance using real order and transaction data.
+Madhav Ecommerce Sales Dashboard is a responsive and interactive analytics tool built with Streamlit, designed to help ecommerce businesses track, analyze, and optimize performance using real order and transaction data.
 
-This dashboard provides clear visibility into key performance indicators such as:
+  Key Features
+This dashboard provides clear visibility into essential performance metrics, including:
 
-  Total Sales
+Total Sales
 
-  Profit
+Profit
 
-  Quantity Sold
+Quantity Sold
 
-  Average Order Value (AOV)
+Average Order Value (AOV)
 
-It also breaks down performance by:
+It also offers detailed breakdowns by:
 
-  State and City
+State and City
 
-  Product Category and Sub-Category
+Product Category and Sub-Category
 
-  Customer Segments
+Customer Segments
 
-  Payment Modes
+Payment Modes
 
-  Monthly Sales and Profit Trends
+Monthly Sales and Profit Trends
+  How It Works
+The dashboard processes and merges two data sources:
 
-The project merges customer and order-level data from two CSV files (Orders.csv and Details.csv) to create a unified and insightful analytics view. All metrics are presented through clean, interactive visualizations such as bar charts, pie/donut charts, and time-series graphs.
+Orders.csv: Contains customer and order-level data
 
-This tool is ideal for:
+Details.csv: Contains transaction details like amount, profit, category, etc.
 
-E-commerce founders and operations teams
+These are combined into a unified view and visualized using:
 
-Business analysts looking to explore trends
+  Bar Charts
 
-Anyone needing a fast, data-backed summary of sales performance
+  Donut & Pie Charts
+
+  Line Graphs (for time-based trends)
+
+👥 Ideal For
+E-commerce founders & operations teams
+
+Business analysts exploring trends and segments
+
+Decision-makers who need fast, data-backed insights
 
 💡 Key Benefits
-   Enables real-time business tracking
+Enables real-time business tracking
 
-   Highlights best-performing regions, products, and customers
+Highlights top-performing regions, products, and customers
 
-   Simplifies reporting and supports strategic decisions
+Simplifies reporting and supports strategic decision-making
 
-   Easily extendable for more data sources or metrics
-
+Easily extendable for more data sources or metrics
